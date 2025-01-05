@@ -1,2 +1,1 @@
-# Gas-Station-System
-Gas station system with fully functional interface.
+Benzinlik istasyonu sistemi  yakıt alışverişi, lastik şişirme, arabanızı yıkama gibi işlemlerin yapabileceğiniz ve bunu yaparken ne kadar harcama yaptığınızı kaydeden bir sistem. 2 farklı girişi olan bu sisteme eğer admin olarak girerseniz o günkü toplam kazanılan kazancı görebilir veya isterseniz benzinliği kapatabilirsiniz(tabii ki admin şifresini bilirseniz giriş yapabilirsiniz.).
